@@ -4,9 +4,9 @@ Welcome to my repository! I'm Ashish, a Technical Recruiter with a Bachelor's de
 
 ## About Me
 
-## Current Role: Technical Recruiter
-## Seeking: Data Analyst Position
-## Skills: Statistical analysis, data manipulation, interpretation, and visualization
+Current Role: Technical Recruiter
+Seeking: Data Analyst Position
+Skills: Statistical analysis, data manipulation, interpretation, and visualization
 
 ## Skillset Highlights
 
