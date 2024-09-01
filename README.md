@@ -5,7 +5,9 @@ Welcome to my repository! I'm Ashish, a Technical Recruiter with a Bachelor's de
 ## About Me
 
 Current Role: Technical Recruiter
+
 Seeking: Data Analyst Position
+
 Skills: Statistical analysis, data manipulation, interpretation, and visualization
 
 ## Skillset Highlights
@@ -19,8 +21,11 @@ Detail-Oriented: Meticulous attention to detail ensures accuracy and precision i
 Effective Communication: Strong interpersonal skills for clear communication and collaboration.
 
 Problem-Solving: Capable of tackling complex challenges and devising effective solutions.
+
 Time Management: Able to meet deadlines and targets while maintaining quality work.
+
 Strategic Thinking: Possess a strategic mindset to drive impactful data-driven strategies.
+
 Continuous Learner: Committed to ongoing professional growth and development in data analysis.
 
 ## Projects
