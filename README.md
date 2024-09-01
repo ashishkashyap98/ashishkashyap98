@@ -4,14 +4,14 @@ Welcome to my repository! I'm Ashish, a Technical Recruiter with a Bachelor's de
 
 ## About Me
 
-# Current Role: Technical Recruiter
-# Seeking: Data Analyst Position
-# Skills: Statistical analysis, data manipulation, interpretation, and visualization
+Current Role: Technical Recruiter
+Seeking: Data Analyst Position
+Skills: Statistical analysis, data manipulation, interpretation, and visualization
 
 ## Skillset Highlights
 
-Analytical Expertise: Proficient in statistical analysis, data extraction, and data modeling.
-Technical Proficiency: Skilled in SQL, Python, Microsoft Office, Excel, and Power BI.
+Analytical Expertise: Proficient in statistical analysis, data extraction, and data modeling./n
+Technical Proficiency: Skilled in SQL, Python, Microsoft Office, Excel, and Power BI./n
 Detail-Oriented: Meticulous attention to detail ensures accuracy and precision in data analysis.
 Effective Communication: Strong interpersonal skills for clear communication and collaboration.
 Problem-Solving: Capable of tackling complex challenges and devising effective solutions.
