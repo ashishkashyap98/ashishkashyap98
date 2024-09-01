@@ -10,8 +10,8 @@ Skills: Statistical analysis, data manipulation, interpretation, and visualizati
 
 ## Skillset Highlights
 
-Analytical Expertise: Proficient in statistical analysis, data extraction, and data modeling./n
-Technical Proficiency: Skilled in SQL, Python, Microsoft Office, Excel, and Power BI./n
+Analytical Expertise: Proficient in statistical analysis, data extraction, and data modeling.
+Technical Proficiency: Skilled in SQL, Python, Microsoft Office, Excel, and Power BI.
 Detail-Oriented: Meticulous attention to detail ensures accuracy and precision in data analysis.
 Effective Communication: Strong interpersonal skills for clear communication and collaboration.
 Problem-Solving: Capable of tackling complex challenges and devising effective solutions.
