@@ -8,7 +8,7 @@ Current Role: Technical Recruiter
 
 Seeking: Data Analyst Position
 
-Skills: Statistical analysis, data manipulation, interpretation, and visualization
+Skills: MS Excel, SQL, Power BI, Python, Statistical analysis, data manipulation, interpretation, and visualization
 
 ## Skillset Highlights
 
